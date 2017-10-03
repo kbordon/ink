@@ -17,11 +17,12 @@ h3 {
 
 #stickytest {
   position: fixed;
-  top: 13%;
-  left: 0%;
-  filter: invert(100%);
+  top: 10%;
+  left: 10%;
+  filter: hue-rotate(50%);
   height: 150px;
   width: 150px;
+  z-index: -1;
 }
 
 main {
