@@ -18,7 +18,7 @@ h3 {
 #stickytest {
   position: fixed;
   top: 13%;
-  left: 78%;
+  left: 0%;
   filter: invert(100%);
   height: 150px;
   width: 150px;
@@ -35,6 +35,16 @@ main {
   color: white;
 }
 
-#pen {
+/*#pen {
   filter: invert(100%);
-}
+  left: 10
+}*/
+
+/*.inner {
+  width: 150px;
+  height: 100px;
+  position: fixed;
+  top: 20%;
+  left: 10%;
+  background: red;
+}*/
